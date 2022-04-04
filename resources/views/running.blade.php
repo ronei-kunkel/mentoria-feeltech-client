@@ -7,6 +7,8 @@
     <title>Running</title>
 </head>
 <body>
-    <h1>Running</h1>
+    <div class="flex-center position-ref full-height">
+        <a href="{{ route('prepare.login') }}" target="_blank">Login</a>
+    </div>
 </body>
 </html>
